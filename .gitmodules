@@ -1,0 +1,3 @@
+[submodule "foo/dotfiles"]
+	path = foo/dotfiles
+	url = https://github.com/ajmacd/dotfiles

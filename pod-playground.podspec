@@ -11,6 +11,7 @@ Pod::Spec.new do |s|
   s.exclude_files  = 'foo/**/.bar'
 
   s.source = {
-      :git => 'https://github.com/ajmacd/pod-playground.git'
+      :git => 'https://github.com/ajmacd/pod-playground.git',
+      :submodules => true
   }
 end
