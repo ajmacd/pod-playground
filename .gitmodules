@@ -1,0 +1,3 @@
+[submodule "foo/pod-playground-submodule"]
+	path = foo/pod-playground-submodule
+	url = https://github.com/ajmacd/pod-playground-submodule.git
