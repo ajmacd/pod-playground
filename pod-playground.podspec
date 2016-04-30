@@ -2,7 +2,7 @@ Pod::Spec.new do |s|
   s.name           = 'pod-playground'
   s.version        = '0.1.1'
   s.summary        = 'Cocoapod testing'
-  s.homepage       = 'https://slack-github.com/screenhero/CallsCore'
+  s.homepage       = 'https://github.com/ajmacd/pod-playground.git',
   s.license        = 'MIT'
   s.author         = { 'Andrew MacDonald' => 'macdonald.andrew@gmail.com' }
 
