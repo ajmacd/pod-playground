@@ -14,4 +14,6 @@ Pod::Spec.new do |s|
       :git => 'https://github.com/ajmacd/pod-playground.git',
       :submodules => true
   }
+
+  s.prepare_command = 'find foo -name ".git" -exec rm {} \;'
 end
